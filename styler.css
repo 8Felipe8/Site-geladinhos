@@ -1,0 +1,70 @@
+body{
+  background-color: #00BFFF;
+}
+
+h1{
+  color: white;
+  position: absolute;
+  left: 100px;
+  top: 140px;
+  font-size: 50px;
+}
+
+header img{
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  border: 5px solid white;
+}
+
+.center{
+  text-align: center;
+}
+
+h2{
+  color: blue;
+  position: absolute;
+  left: 20px;
+  top: 250px;
+  font-size: 22px;
+}
+
+p img{
+  width: 165px;
+  height: 165px;
+  position: absolute;
+  left: 20px;
+  top: 310px;
+}
+
+ul{
+  color: white;
+  position: absolute;
+  left: 180px;
+  top: 290px;
+  font-size: 25px;
+}
+
+h2a{
+  color: blue;
+  position: absolute;
+  left: 20px;
+  top: 500px;
+  font-size: 22px;
+}
+
+p2 img{
+  width: 165px;
+  height: 165px;
+  position: absolute;
+  left: 20px;
+  top: 540px;
+}
+
+nav ul{
+  color: white;
+  position: absolute;
+  left: 180px;
+  top: 540px;
+  font-size: 25px;
+}
